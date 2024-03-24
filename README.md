@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avrar07
+- 👋 Hi, I’m @abrar07
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
